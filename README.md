@@ -1,4 +1,4 @@
-# Project Name 🚀
+# QTGame 🚀
 
 [![License](https://img.shields.io/badge/License-Jeffee_Ruicong_William-blue.svg)](LICENSE.md)
 
